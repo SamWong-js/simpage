@@ -1,0 +1,17 @@
+.header-body {
+    background-image: url('../../assets/banner.jpg');
+    height: 800px;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .header-body  {
+        background-image: url('../../assets/banner-m.PNG');
+        background-size: ;
+        background-size: 100%;
+        width: 100%;
+        height: 1800px;
+    }
+}
